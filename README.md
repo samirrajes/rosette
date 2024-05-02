@@ -4,8 +4,9 @@
 
 ## Generations
 <p align="center">
-  <img src="https://github.com/samirrajes/rosette/assets/77396123/4f3c469a-0159-4f06-8f85-3c2d64993864" width="45%" style="vertical-align:top; margin-right:10px;" />
-  <img src="https://github.com/samirrajes/rosette/assets/77396123/952f5a20-4449-4a0c-bf65-faaa59a2b6e8" width="45%" style="vertical-align:top; margin-left:10px;" />
+  <img src="https://github.com/samirrajes/rosette/assets/77396123/4f3c469a-0159-4f06-8f85-3c2d64993864" width="30%" style="vertical-align:top; margin-right:5px;" />
+  <img src="https://github.com/samirrajes/rosette/assets/77396123/952f5a20-4449-4a0c-bf65-faaa59a2b6e8" width="30%" style="vertical-align:top; margin:0 5px;" />
+  <img src="https://github.com/samirrajes/rosette/assets/77396123/new-image-id" width="30%" style="vertical-align:top; margin-left:5px;" />
 </p>
 ![green](https://github.com/samirrajes/rosette/assets/77396123/499edf21-9d2c-46e8-b361-30a9ed354f48)
 
