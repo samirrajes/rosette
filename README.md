@@ -4,8 +4,8 @@
 
 ## Generations
 <p float="left">
-  <img src="https://github.com/samirrajes/rosette/assets/77396123/4f3c469a-0159-4f06-8f85-3c2d64993864" width="50%" />
-  <img src="https://github.com/samirrajes/rosette/assets/77396123/952f5a20-4449-4a0c-bf65-faaa59a2b6e8" width="50%" />
+  <img src="https://github.com/samirrajes/rosette/assets/77396123/4f3c469a-0159-4f06-8f85-3c2d64993864" width="50%" style="vertical-align:top" />
+  <img src="https://github.com/samirrajes/rosette/assets/77396123/952f5a20-4449-4a0c-bf65-faaa59a2b6e8" width="50%" style="vertical-align:top" />
 </p>
 
 ## Dependencies
